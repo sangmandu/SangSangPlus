@@ -1,2 +1,16 @@
-# onlyLovingNLP
-Boostcamp 2st : NLP Team
+<div align="center">
+   <h1>🚀SangSangPlus🚀
+</div>
+
+
+## 😎 팀원 소개
+|오|래|걸|릴|듯|||
+|---|---|---|---|---|---|---|
+||　|　|　|　|　|　|
+
+
+  
+## 📌 알고리즘  
+  
+  
+## 📌 논문리뷰
