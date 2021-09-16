@@ -1,6 +1,6 @@
 import sys
-num, length = map(int,input().split())
-holes = list(map(int,input().split()))
+num, length = map(int,sys.stdin.readline().split())
+holes = list(map(int,sys.stdin.readline().split()))
 holes.sort()
 """물이 새는 곳은 가장 왼쪽에서 정수만큼 떨어진 거리이고 (x-0.5,x+0.5)만큼 테이프를 쓰므로
 겹쳐지지 않으며 각 구멍을 막는데 필요한 길이는 1이다.
