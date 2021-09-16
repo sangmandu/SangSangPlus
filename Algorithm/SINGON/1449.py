@@ -1,3 +1,5 @@
+"""정석적 풀이는 아니지만 이것이 더 빠를 것 같았다는 것을 생각해서 이 풀이로 올립니다.
+서로 겹치지 않기 때문에 이 풀이가 가능하다고 생각합니다"""
 import sys
 num, length = map(int,sys.stdin.readline().split())
 holes = list(map(int,sys.stdin.readline().split()))
