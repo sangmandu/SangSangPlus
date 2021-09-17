@@ -1,4 +1,6 @@
+import math
 import sys
+
 num, length = map(int,sys.stdin.readline().split())
 holes = list(map(int,sys.stdin.readline().split()))
 holes.sort()
