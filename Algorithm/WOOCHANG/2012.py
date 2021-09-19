@@ -15,7 +15,7 @@ n = int(sys.stdin.readline())
 score_list =sorted([int(sys.stdin.readline()) for _ in range(n)])
 
 enum_list = [i+1 for i in range(n)]
-result_list = [score - i if score - i >= 0 else -(score-i) for i, score in zip(enum_list, score_list)]
+result_list = [abs(score-i) for i, score in zip(enum_list, score_list)]
 print(sum(result_list))
 
 # 이 부분은 위의 3번방식으로 해결하려고 한 코드입니다.
