@@ -16,11 +16,11 @@
    * 이전주에 했던 2명은 금주에는 하지않는다.
    * 모더레이터가 회의록을 작성한다.
       * 회의록은 Meet-Up 폴더에 md 파일로 작성한다.
-   * 
    
    ### 순서
-   * 9월 23일 ~ 9월 24일 : `상민` `상준`
-
+   |9월 23일~9월 24일|
+   |---|
+   |`상민` `상준`|
   
    
    ## 📌 알고리즘  
@@ -28,13 +28,9 @@
    |---|---|---|
    |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|
 
-   |우창🏅|상준🏅|
-   |---|---|
-   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whatchang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inter10">|
-  
-   |신곤🏅|재영🏅|
-   |---|---|
-   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=singon96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milk0510">|
+   |우창🏅|상준🏅|신곤🏅|재영🏅|
+   |---|---|---|---|
+   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whatchang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inter10">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=singon96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milk0510">|
    
    
    ## 📌 논문리뷰
