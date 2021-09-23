@@ -4,7 +4,7 @@
 
 
    ## 😎 팀원 소개
-   |사진|사진|사진|![logo](https://user-images.githubusercontent.com/52475378/134475730-c83657ed-5a91-4d4b-bf2f-0bc27e505682.PNG)|사진|사진|사진|
+   |사진|사진|사진|<img src="https://user-images.githubusercontent.com/52475378/134475730-c83657ed-5a91-4d4b-bf2f-0bc27e505682.PNG" height=280 width=280>|사진|사진|사진|
    |---|---|---|---|---|---|---|
    |[신곤]()|[재영]()|[세진]()|[희락](https://github.com/raki-1203)|[우창]()|[상준]()|[상민](https://github.com/sangmandu)|
 
