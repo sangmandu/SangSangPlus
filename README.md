@@ -4,8 +4,7 @@
 
 
    ## 😎 팀원 소개
-   |사진|
-|<img src="https://avatars.githubusercontent.com/u/46557183?v=4" height=200 width=200>|사진|<img src="https://user-images.githubusercontent.com/52475378/134475730-c83657ed-5a91-4d4b-bf2f-0bc27e505682.PNG" height=200 width=200>|사진|사진|<img src="https://user-images.githubusercontent.com/45033215/134476503-0e05f1cd-6e37-4a84-9701-ad9616888f3e.png" height=200 width=200>|
+   |사진|<img src="https://avatars.githubusercontent.com/u/46557183?v=4" height=200 width=200>|사진|<img src="https://user-images.githubusercontent.com/52475378/134475730-c83657ed-5a91-4d4b-bf2f-0bc27e505682.PNG" height=200 width=200>|사진|사진|<img src="https://user-images.githubusercontent.com/45033215/134476503-0e05f1cd-6e37-4a84-9701-ad9616888f3e.png" height=200 width=200>|
    |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
    |[신곤](https://github.com/SinGonKim)|[재영](https://github.com/kimziont)|[세진](https://github.com/pseeej)|[희락](https://github.com/raki-1203)|[우창]()|[상준]()|[상민](https://github.com/sangmandu)|
 
