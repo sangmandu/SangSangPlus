@@ -51,7 +51,7 @@
   
    ---
    
-   ## 📌 알고리즘  
+   ## 📌 [알고리즘](https://github.com/sangmandu/SangSangPlus/tree/main/Algorithm)  
    |세진🥇|희락🥈|상민🥉|
    |---|---|---|
    |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|
