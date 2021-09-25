@@ -1,0 +1,8 @@
+import sys
+input = sys.stdin.readline
+n, m = map(int, input().split())
+A = list(map(int, input().split()))
+for _ in range(m):
+    A.sort()
+    A[0] = A[1] = A[0]+ A[1] # 가장 작은 두개의 카드를 더해서 변환시킴
+print(sum(A))
