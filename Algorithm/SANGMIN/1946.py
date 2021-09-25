@@ -29,8 +29,3 @@ for _ in range(t):
         answer += 1
         cut = view
     print(answer)
-
-
-
-
-
