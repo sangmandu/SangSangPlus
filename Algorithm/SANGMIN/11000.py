@@ -18,6 +18,5 @@ for s, t in cls[1:]:
     if end[0] <= s:
         heappop(end)
     heappush(end, t)
-    ans = max(ans, len(end))
-print(ans)
+print(len(end))
 
