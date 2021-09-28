@@ -52,9 +52,9 @@
    ---
    
    ## 📌 [알고리즘](https://github.com/sangmandu/SangSangPlus/tree/main/Algorithm)  
-   |세진🥇|희락🥈|상민🥉|
+   |세진🥇|상민🥈|희락🥉|
    |---|---|---|
-   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|
+   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|
 
    |우창🏅|상준🏅|신곤🏅|재영🏅|
    |---|---|---|---|
