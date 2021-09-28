@@ -1,8 +1,18 @@
 # 🌌 Class 2
 
 |날짜|번호|문제이름|난이도|
-|------|---|---|---|
+|:------:|:---:|:---:|:---:|
 |21||[](https://www.acmicpc.net/problem/)||
+|210928|1929|[소수 구하기](https://www.acmicpc.net/problem/1929)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/9.svg"/>|
+|210928|7568|[덩치](https://www.acmicpc.net/problem/7568)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
+|210928|10814|[나이순 정렬](https://www.acmicpc.net/problem/10814)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
+|210928|10989|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>||
+|210928|11650|[좌표 정렬하기](https://www.acmicpc.net/problem/11650)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>||
+|210927|2751|[수 정렬하기 2](https://www.acmicpc.net/problem/2751)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
+|210927|2609|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
+|210927|1436|[영화감독 숌](https://www.acmicpc.net/problem/1436)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
+|210927|1181|[단어 정렬](https://www.acmicpc.net/problem/1181)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
+|210927|1018|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
 |210926|15829|[Hashing](https://www.acmicpc.net/problem/15829)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/4.svg"/>|
 |210926|11050|[이항 계수 1](https://www.acmicpc.net/problem/11050)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/5.svg"/>|
 |210926|10250|[ACM 호텔](https://www.acmicpc.net/problem/10250)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/3.svg"/>|
