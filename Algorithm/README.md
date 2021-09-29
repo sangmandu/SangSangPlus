@@ -1,7 +1,7 @@
 # 📚 하루 한 문제 알고리즘
 ### 오늘 문제 0928
 
-### [2167.2차원 배열의 합](https://www.acmicpc.net/problem/2167)
+### [11441.합 구하기](https://www.acmicpc.net/problem/11441)
 
 ---
 
