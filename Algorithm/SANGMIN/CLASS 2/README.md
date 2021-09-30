@@ -2,7 +2,13 @@
 
 |날짜|번호|문제이름|난이도|
 |:------:|:---:|:---:|:---:|
-|21||[](https://www.acmicpc.net/problem/)||
+|2110||[](https://www.acmicpc.net/problem/)||
+|210930||[](https://www.acmicpc.net/problem/)||
+|210930||[](https://www.acmicpc.net/problem/)||
+|210930|18111|[마인크래프트](https://www.acmicpc.net/problem/18111)||
+|210930|1978|[소수 찾기](https://www.acmicpc.net/problem/1978)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/7.svg"/>|
+|210930|1920|[수 찾기](https://www.acmicpc.net/problem/1920)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/7.svg"/>|
+|210930|11651|[좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
 |210928|1929|[소수 구하기](https://www.acmicpc.net/problem/1929)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/9.svg"/>|
 |210928|7568|[덩치](https://www.acmicpc.net/problem/7568)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
 |210928|10814|[나이순 정렬](https://www.acmicpc.net/problem/10814)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
