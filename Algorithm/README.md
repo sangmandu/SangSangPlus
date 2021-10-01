@@ -1,7 +1,7 @@
 # 📚 하루 한 문제 알고리즘
 ### 오늘 문제 0930
 
-### [11659.구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+### [2559.수열](https://www.acmicpc.net/problem/2559)
 
 ---
 
@@ -97,8 +97,8 @@
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |211004|2143|[두 배열의 합](https://www.acmicpc.net/problem/2143)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|누적합|
 |211003|3020|[개똥벌레](https://www.acmicpc.net/problem/3020)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/>|전상민|누적합|
-|211001|11660|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|누적합|
-|211002|2559|[수열](https://www.acmicpc.net/problem/2559)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/8.svg"/>|전상민|누적합|
+|211002|11660|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|누적합|
+|211001|2559|[수열](https://www.acmicpc.net/problem/2559)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/8.svg"/>|전상민|누적합|
 
 <br>
 
