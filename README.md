@@ -45,16 +45,16 @@
    
    > 순서
    
-   |9월 27일~10월 1일|9월 23일~9월 24일|
-   |:---:|:---:|
-   |`신곤` `세진`|`상민` `상준`|
+   |Week 3|Week 2|Week 1|
+   |:---:|:---:|:---:|
+   |`상준` `재영`|`신곤` `세진`|`상민` `상준`|
   
    ---
    
    ## 📌 [알고리즘](https://github.com/sangmandu/SangSangPlus/tree/main/Algorithm)  
-   |세진🥇|희락🥈|상민🥉|
+   |세진🥇|상민🥈|희락🥉|
    |---|---|---|
-   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|
+   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|
 
    |우창🏅|상준🏅|신곤🏅|재영🏅|
    |---|---|---|---|
@@ -65,6 +65,8 @@
    ## 📌 논문리뷰
 
    > 1주차 논문 분석 : [BERT](https://arxiv.org/pdf/1810.04805.pdf)
+  
+   > 2주차 논문 분석 : [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf)
    
    
    
