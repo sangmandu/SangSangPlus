@@ -66,7 +66,9 @@
 
    > 1주차 논문 분석 : [BERT](https://arxiv.org/pdf/1810.04805.pdf)
   
-   > 2주차 논문 분석 : [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf)
+   > 2주차 논문 분석 : KLUE 대회 준비로 Pass
+   
+   > 3주차 논문 분석 : [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf) / [ELECTRA](https://arxiv.org/pdf/2003.10555.pdf)
    
    
    
