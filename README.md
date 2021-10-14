@@ -70,6 +70,7 @@
    
    > 3주차 논문 분석 : [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf) / [ELECTRA](https://arxiv.org/pdf/2003.10555.pdf)
    
+   > 4주차 논문 분석 : [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
    
    
    
