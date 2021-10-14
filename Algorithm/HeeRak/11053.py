@@ -4,7 +4,7 @@ input = sys.stdin.readline
 
 def solution():
     N = int(input())
-    A = [0] + list(map(int, input().split()))
+    A = list(map(int, input().split()))
 
     dp = [1] * N
 
