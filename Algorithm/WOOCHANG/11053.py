@@ -22,13 +22,31 @@
 # print(dp)
 # print(len(dp)-2)
 
+#===========================#====================== 치팅한 풀이법 =====================#===========================+
 
-# 치팅한 방식
+# o(n^2)방식
+# import sys
+# 
+# input = sys.stdin.readline
+# n = int(input())
+# data_list = list(map(int, input().split()))
+# dp_table = [0 for _ in range(n)]
+# 
+# for i in range(n):
+#     if dp_table[i] == 0:
+#         dp_table[i] = 1
+#     for j in range(i):
+#         if data_list[i] > data_list[j]:
+#             if dp_table[i] < dp_table[j] + 1:
+#                 dp_table[i] = dp_table[j] + 1
+# 
+# print(max(dp_table))
+
+# O(nlogn)
 import sys
 
 input = sys.stdin.readline
 
-# lower-bound 이진 탐색 방식
 def binary_search(start, end, target, data):
     if start == end:
         return end
