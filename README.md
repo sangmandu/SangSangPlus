@@ -45,9 +45,9 @@
    
    > 순서
    
-   |Week 3|Week 2|Week 1|
-   |:---:|:---:|:---:|
-   |`상준` `재영`|`신곤` `세진`|`상민` `상준`|
+   |Week 5|Week 4|Week 3|Week 2|Week 1|
+   |:---:|:---:|:---:|:---:|:---:|
+   |`상준` `재영`|`상민` `희락`|`상준` `재영`|`신곤` `세진`|`상민` `상준`|
   
    ---
    
@@ -56,9 +56,9 @@
    |---|---|---|
    |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|
 
-   |우창🏅|상준🏅|신곤🏅|재영🏅|
+   |우창🏅|신곤🏅|상준🏅|재영🏅|
    |---|---|---|---|
-   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whatchang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inter10">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=singon96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milk0510">|
+   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whatchang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=singon96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inter10">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milk0510">|
    
    ---
    
@@ -66,8 +66,11 @@
 
    > 1주차 논문 분석 : [BERT](https://arxiv.org/pdf/1810.04805.pdf)
   
-   > 2주차 논문 분석 : [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf)
+   > 2주차 논문 분석 : KLUE 대회 준비로 Pass
    
+   > 3주차 논문 분석 : [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf) / [ELECTRA](https://arxiv.org/pdf/2003.10555.pdf)
+   
+   > 4주차 논문 분석 : [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
    
    
    

@@ -1,29 +1,24 @@
 # 📚 하루 한 문제 알고리즘
-### 오늘 문제 10.05
-
-### [9184.신나는 함수 실행](https://www.acmicpc.net/problem/9184)
-
----
 
 ### 10월 참여표 (10/01~10/15)
-> 🔴 희락 `🎁` `1` `2`
+> 🔴 희락 `🎁` `1` `2` `❌` `❌` `❌` `❌` `❌` `8` `9` `10` `11` `12` `13` `14`
 
-> 🟠 우창 `1` `❌` `❌` `❌` `5`
+> 🟠 우창 `1` `❌` `❌` `❌` `5` `❌` `❌` `🔺` `9` `🔺` `🔺` `12`
 
-> 🟡 상민 `🎁` `1` `2` `3` `❌` `🔺` `6`
+> 🟡 상민 `🎁` `1` `2` `3` `❌` `🔺` `6` `7` `8` `🔺` `🔺` `11` `12` `13` `14` `15` `16` `17`
 
 > 🟢 상준 
 
-> 🔵 신곤 `🎁`  `1` `2` `3` `4` `5` `6` `7`
+> 🔵 신곤 `🎁`  `1` `2` `3` `4` `5` `6` `7` `8` `9` `10` `11` `12` `13` `14` `15`
 
 > 🟣 재영
 
 > 🟤 세진  
 
 * Done `날짜` | Tardy 🔺 | Nope `❌`
-* 이전날짜 채우기 ➖
+* 중간 참여자는 이전날짜 채우기 ➖
 * 뱃지는 직접 수령 요함
-* 주어진 기간동안 2일 이하의 결석으로 완주하면 뱃지 수여(결석 3일 부터 미지급)
+* 주어진 기간동안 2일 이하의 결석으로 완주하면 뱃지 수여(결석 3일 부터 미지급, 지각은 출석으로 인정)
   * `9월` : `희락(ALL)`, `우창(-1)`, `상민(ALL)`, `상준(-1)`, `신곤(ALL)`
 
 
@@ -80,21 +75,42 @@
 * 모두 풀었으면 🔥, 현재 푸는중이면 🚀, 그 외에는 아무것도 없습니다.
 * 언제든지, 새로운 유형을 제안 가능합니다. 말씀주세요!
 
-|수학 (2)🔥|그리디 (9)🔥|누적합 1 (7)🔥|동적 계획법 1 (15)🚀|DFS와 BFS (11)|누적합 2 (7)|
-|:---:|:---:|:---:|:-----:|:-----:|:---:|
+|수학 (2)🔥|그리디 (9)🔥|누적합 1 (7)🔥|동적 계획법 1 (15)🚀|DFS와 BFS (9)|
+|:---:|:---:|:---:|:-----:|:-----:|
 
-|동적 계획법 2 (7)|트리 (7)|동적 계획법 3 (6)|최소 신장 트리 (6)|최단 경로 (7)|
-|:-----:|:---:|:-----:|:-----:|:---:|
+|이분 탐색 (6)|누적합 2 (6)|비트 마스킹 (6)|투 포인터 (7)|동적 계획법 2 (7)|
+|:----:|:----:|:-----:|:-----:|:-----:|
 
-|동적 계획법과 최단거리 역추적 (9)|트리에서의 동적 계획법 (4)|동적 계획법 4 (10)|
-|:-------:|:-------:|:-----:|
+|트리 (7)|동적 계획법 3 (6)|최소 신장 트리 (6)|세그먼트 트리 (7)|최단 경로 (7)|
+|:---:|:-----:|:-----:|:-----:|:-----:|
 
 <br>
 
-> 10월 `누적합 1` `동적 계획법 1`
+> 11월 `이분 탐색`
 
 |날짜|번호|문제이름|난이도|선정자|유형|
 |:------:|:---:|:---:|:---:|:---:|:---:|
+|211102|12015|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/>|전상민|이분 탐색|
+|211101|1300|[K번째 수](https://www.acmicpc.net/problem/1300)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|이분 탐색|
+
+<br>
+
+> 10월 `누적합 1` `동적 계획법 1` `DFS와 BFS` `이분 탐색`
+
+|날짜|번호|문제이름|난이도|선정자|유형|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|211031|2110|[공유기 설치](https://www.acmicpc.net/problem/2110)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|이분 탐색|
+|211030|2805|[나무 자르기](https://www.acmicpc.net/problem/2805)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/7.svg"/>|전상민|이분 탐색|
+|211029|1654|[랜선 자르기](https://www.acmicpc.net/problem/1654)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/7.svg"/>|전상민|이분 탐색|
+|211028|10816|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|전상민|이분 탐색|
+|211027|1707|[이분 그래프](https://www.acmicpc.net/problem/1707)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|DFS와 BFS|
+|211026|2206|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|DFS와 BFS|
+|211025|1697|[숨바꼭질](https://www.acmicpc.net/problem/1697)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
+|211024|7569 \| 7576|[토마토](https://www.acmicpc.net/problem/7569) \| [토마토](https://www.acmicpc.net/problem/7576)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
+|211023|2178|[미로 탐색](https://www.acmicpc.net/problem/2178)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
+|211022|1012|[유기농 배추](https://www.acmicpc.net/problem/1012)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/9.svg"/>|전상민|DFS와 BFS|
+|211021|2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
+|211020|1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/9.svg"/>|전상민|DFS와 BFS|
 |211019|12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/>|전상민|동적 계획법 1|
 |211018|1912|[연속합](https://www.acmicpc.net/problem/1912)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/9.svg"/>|전상민|동적 계획법 1|
 |211017|9251|[LCS](https://www.acmicpc.net/problem/9251)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/>|전상민|동적 계획법 1|
