@@ -106,8 +106,7 @@
 |211027|1707|[이분 그래프](https://www.acmicpc.net/problem/1707)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|DFS와 BFS|
 |211026|2206|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|DFS와 BFS|
 |211025|1697|[숨바꼭질](https://www.acmicpc.net/problem/1697)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
-|211024|7569|[토마토](https://www.acmicpc.net/problem/7569)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
-|211024|7576|[토마토](https://www.acmicpc.net/problem/7576)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
+|211024|7569 \| 7576|[토마토](https://www.acmicpc.net/problem/7569) \| [토마토](https://www.acmicpc.net/problem/7576)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
 |211023|2178|[미로 탐색](https://www.acmicpc.net/problem/2178)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
 |211022|1012|[유기농 배추](https://www.acmicpc.net/problem/1012)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/9.svg"/>|전상민|DFS와 BFS|
 |211021|2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|DFS와 BFS|
