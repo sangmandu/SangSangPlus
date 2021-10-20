@@ -72,6 +72,8 @@
    
    > 4주차 논문 분석 : [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
    
+   > 5주차 논문 분석 : [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf)
+   
    
    
    
