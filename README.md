@@ -56,9 +56,9 @@
    |---|---|---|
    |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|
 
-   |우창🏅|신곤🏅|상준🏅|재영🏅|
+   |신곤🏅|우창🏅|상준🏅|재영🏅|
    |---|---|---|---|
-   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whatchang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=singon96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inter10">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milk0510">|
+   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=singon96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whatchang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inter10">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milk0510">|
    
    ---
    
