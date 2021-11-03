@@ -74,6 +74,7 @@
    
    > 5주차 논문 분석 : [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf)
    
+   > 6주차 논문 분석 : MRC 대회 준비로 Pass  
    
    
    
