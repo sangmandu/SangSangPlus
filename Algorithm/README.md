@@ -1,19 +1,25 @@
 # 📚 하루 한 문제 알고리즘
 
-### 10월 참여표 (10/16~10/31)
-> 🔴 희락 [ 🎁 ] `🔺` `🔺` `❌` `❌` `20` `21` `22` `23`
+### 10-11월 참여표 (10/16~10/31) (11/01~11/15)
+> 🔴 희락 [ 🎁 ]  
+> **<10월> 2/2>** `🔺` `🔺` `❌` `❌` `20` `21` `22` `23`
+> **<11월> 1/2**
 
-> 🟠 우창 [ ]
+> 🟠 우창 [ ]  
+> **<10월> 2/2** 
+> **<11월> 1/2**
 
-> 🟡 상민 [ 🎁🎖 ] `16` `17` `18` `19` `20` `🔺` `🔺` `🔺` `24` `25`
+> 🟡 상민 [ 🎁🎖 ]  
+> **<10월> 2/2**  `16` `17` `18` `19` `20` `🔺` `🔺` `🔺` `24` `25`
+> **<11월> 1/2**
 
-> 🟢 상준 [ ]
+> 🟢 상준 [ ]  
+> **<10월> 2/2** 
+> **<11월> 1/2**
 
-> 🔵 신곤 [ 🎁🎖 ] `16` `17` `18` `19` `20` `21` `22` `23` `24` `25` `26` `27` `28` `29` `30` `31`
-
-> 🟣 재영 [ ]
-
-> 🟤 세진 [ ]
+> 🔵 신곤 [ 🎁🎖 ] 
+> **<10월> 2/2** `16` `17` `18` `19` `20` `21` `22` `23` `24` `25` `26` `27` `28` `29` `30` `31`  
+> **<11월> 1/2**
 
 * Done `날짜` | Tardy 🔺 | Nope `❌`
 * 중간 참여자는 이전날짜 채우기 ➖
@@ -79,7 +85,7 @@
 |수학 (2)🔥|그리디 (9)🔥|누적합 1 (7)🔥|동적 계획법 1 (15)🔥|DFS와 BFS (9)🚀|
 |:---:|:---:|:---:|:-----:|:-----:|
 
-|이분 탐색 (6)|누적합 2 (6)|비트 마스킹 (6)|투 포인터 (7)|동적 계획법 2 (7)|
+|이분 탐색 (6)|누적합 2 (7)|비트 마스킹 (7)|투 포인터 (7)|동적 계획법 2 (7)|
 |:----:|:----:|:-----:|:-----:|:-----:|
 
 |트리 (7)|동적 계획법 3 (6)|최소 신장 트리 (6)|세그먼트 트리 (7)|최단 경로 (7)|
@@ -87,10 +93,37 @@
 
 <br>
 
-> 11월 `이분 탐색`
+> 11월 `이분 탐색` `누적합 2` `비트 마스킹` `투 포인터` `동적 계획법 2`
 
 |날짜|번호|문제이름|난이도|선정자|유형|
 |:------:|:---:|:---:|:---:|:---:|:---:|
+|211129|1520|[내리막 길](https://www.acmicpc.net/problem/1520)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|동적 계획법 2|
+|211128|10942|[팰린드롬?](https://www.acmicpc.net/problem/10942)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|동적 계획법 2|
+|211127|2629|[양팔저울](https://www.acmicpc.net/problem/2629)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/>|전상민|동적 계획법 2|
+|211126|7579|[앱](https://www.acmicpc.net/problem/7579)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|동적 계획법 2|
+|211125|11049|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|동적 계획법 2|
+|211124|2293|[동전 1](https://www.acmicpc.net/problem/2293)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|동적 계획법 2|
+|211123|11066|[파일 합치기](https://www.acmicpc.net/problem/11066)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|동적 계획법 2|
+|211122|1450|[냅색문제](https://www.acmicpc.net/problem/1450)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/15.svg"/>|전상민|투 포인터|
+|211121|1644|[소수의 연속합](https://www.acmicpc.net/problem/1644)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|투 포인터|
+|211120|1806|[부분합](https://www.acmicpc.net/problem/1806)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|투 포인터|
+|211119|2470|[두 용액](https://www.acmicpc.net/problem/2470)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/>|전상민|투 포인터|
+|211118|2531|[회전 초밥](https://www.acmicpc.net/problem/2531)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|투 포인터|
+|211117|3273|[두 수의 합](https://www.acmicpc.net/problem/3273)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/8.svg"/>|전상민|투 포인터|
+|211116|11728|[배열 합치기](https://www.acmicpc.net/problem/11728)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|전상민|투 포인터|
+|211115|4991|[로봇 청소기](https://www.acmicpc.net/problem/4991)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/>|전상민|비트 마스킹|
+|211114|14391|[종이 조각](https://www.acmicpc.net/problem/14391)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|비트 마스킹|
+|211113|2234|[성곽](https://www.acmicpc.net/problem/2234)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|비트 마스킹|
+|211112|1062|[가르침](https://www.acmicpc.net/problem/1062)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|비트 마스킹|
+|211111|2961|[도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|비트 마스킹|
+|211110|11723|[집합](https://www.acmicpc.net/problem/11723)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|전상민|비트 마스킹|
+|211109|1094|[막대기](https://www.acmicpc.net/problem/1094)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|전상민|비트 마스킹|
+|211108|2616|[소형기관차](https://www.acmicpc.net/problem/2616)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>|전상민|누적합 2|
+|211107|1451|[직사각형으로 나누기](https://www.acmicpc.net/problem/1451)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/>|전상민|누적합 2|
+|211106|16507|[어두운 건 무서워](https://www.acmicpc.net/problem/16507)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/>|전상민|누적합 2|
+|211105|2725|[보이는 점의 개수](https://www.acmicpc.net/problem/2725)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/9.svg"/>|전상민|누적합 2|
+|211104|10211|[Maximum Subarray](https://www.acmicpc.net/problem/10211)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/8.svg"/>|전상민|누적합 2|
+|211103|12847|[꿀 아르바이트](https://www.acmicpc.net/problem/12847)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/7.svg"/>|전상민|누적합 2|
 |211102|12015|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/>|전상민|이분 탐색|
 |211101|1300|[K번째 수](https://www.acmicpc.net/problem/1300)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>|전상민|이분 탐색|
 
