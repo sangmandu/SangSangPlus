@@ -1,6 +1,6 @@
 '''
 https://www.acmicpc.net/problem/2725
-어두운 건 무서워
+보이는 점의 개수
 [풀이]
 '''
 import sys
