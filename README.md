@@ -45,28 +45,46 @@
    
    > 순서
    
-   |9월 27일~10월 1일|9월 23일~9월 24일|
-   |:---:|:---:|
-   |`신곤` `세진`|`상민` `상준`|
+   |Week 15|Week 14|Week 13|Week 12|Week 11|
+   |:---:|:---:|:---:|:---:|:---:|
+   |||||`상준` `우창`|
+   
+   |Week 10|Week 9|Week 8|Week 7|Week 6|
+   |:---:|:---:|:---:|:---:|:---:|
+   |`상민` `재영`|`희락` `세진`|`상민` `상준`|`신곤` `우창`|`상민` `세진`|
+   
+   |Week 5|Week 4|Week 3|Week 2|Week 1|
+   |:---:|:---:|:---:|:---:|:---:|
+   |`상준` `재영`|`상민` `희락`|`상준` `재영`|`신곤` `세진`|`상민` `상준`|
+   
+   
   
    ---
    
    ## 📌 [알고리즘](https://github.com/sangmandu/SangSangPlus/tree/main/Algorithm)  
-   |세진🥇|희락🥈|상민🥉|
+   |세진🥇|상민🥈|희락🥉|
    |---|---|---|
-   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|
+   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pseeej">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">|
 
-   |우창🏅|상준🏅|신곤🏅|재영🏅|
+   |신곤🏅|우창🏅|상준🏅|재영🏅|
    |---|---|---|---|
-   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whatchang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inter10">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=singon96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milk0510">|
+   |<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=singon96">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whatchang">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inter10">|<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milk0510">|
    
    ---
    
    ## 📌 논문리뷰
 
    > 1주차 논문 분석 : [BERT](https://arxiv.org/pdf/1810.04805.pdf)
+  
+   > 2주차 논문 분석 : KLUE 대회 준비로 Pass
    
+   > 3주차 논문 분석 : [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf) / [ELECTRA](https://arxiv.org/pdf/2003.10555.pdf)
    
+   > 4주차 논문 분석 : [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
+   
+   > 5주차 논문 분석 : [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300.pdf)
+   
+   > 6주차 논문 분석 : MRC 대회 준비로 Pass  
    
    
    
