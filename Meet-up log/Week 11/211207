@@ -1,0 +1,26 @@
+데이터팀
+우창님
+  - 기존 크롤링 시간 대비 30% 정도 줄임 대략 81분
+  - 각 카테고리별로 chrome driver 를 지웠다가 다시 실행하는 방식으로 진행
+  - 크롤링 할 때 카테고리별 배달업체 개수 나누기 4를 하기로 수정
+
+DB팀
+
+세진님
+  - 리뷰 전처리 중복되는 문자열 2개로 줄이는 전처리, 화이트스페이스 제거, 정해진 문자열(한글, 기본특수문자)제외하고 제거
+  - review table 과 preproceessed_review table 로 나눠서 관리
+  
+> 우창님 질문
+  - No module Named error -> pymysql.install_as_MySQLdb() 추가해줘서 해결
+
+모델팀
+
+상민님
+  - 카카오 GPT 다시 돌려보는거 도전 저녁에 진행할 예정
+  
+상준님
+  - GPT Trinity Finetuning 진행 중
+    - 배치사이즈를 8로 줄여서 진행해서 200epoch 돌리고 있는 중임
+
+  - 앞으로 별점 분류 모델 fine-tuning 을 들어갈 생각임
+
