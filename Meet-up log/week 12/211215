@@ -20,7 +20,9 @@
   - 상민님이 추천한 자료 링크 : https://paperswithcode.com/task/text-to-image-generation
   
 - Style Transfer팀: 
-  -
+  - 데이터 정제 완료, BUT 강원도, 제주도의 train경우 표준어와 사투리의 개수가 1~2개 정도 차이가 난다.
+  - supervised learning 가능할 것 같다. 
+  - 한 모델이 여러 style로 바꿔주는 형태로 만들면 어떨까? -> 모델이 과연 잘 학습될까? -> 일단 한 개의 사투리로 바꿔주는 형태로 진행하고 잘 되면 여러 사투리로 바꿔주는 모델을 만들어주자!
 
 피어세션 중 한 것들
   - 
